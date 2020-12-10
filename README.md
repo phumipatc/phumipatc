@@ -8,18 +8,20 @@
 <p align="center">
  <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
  <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatc&layout=compact"/>
- <img align="right" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
 ---
 
-```javascript
-const MAGCARI = {
- "Code.favorite": [C, C++],
- "Code.learning": [Python, HTML, CSS, Batch]
- "Tools":         [VSCode, Docker, Git,]
-}
-```
+<p align="center">
+ ```javascript
+ const MAGCARI = {
+  "Code.favorite": [C, C++],
+  "Code.learning": [Python, HTML, CSS, Batch]
+  "Tools":         [VSCode, Docker, Git,]
+ }
+ ```
+ <img align="right" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="200" height="128" />
+<p>
 
 ---
 
