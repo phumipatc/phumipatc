@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <img src="https://github.com/phumipatc/phumipatc/blob/main/header.png" align="center" alt="Header" />
+ <h2 align="center">MAGCARI's Profile</h2>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 ```javascript
 const MAGCARI = {
  "Code.favorite": [C, C++],
- "Code.learning": [Python, HTML, CSS, Batch]
- "Tools":         [VSCode, Docker, Git,]
+ "Code.learning": [Python,PHP , HTML, CSS, Batch]
+ "Tools":         [VSCode, Docker, Git]
 }
 ```
 <img align="right" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="500" height="320" />
