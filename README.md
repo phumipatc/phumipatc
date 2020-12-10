@@ -12,16 +12,14 @@
 
 ---
 
-<p align="center">
- ```javascript
- const MAGCARI = {
-  "Code.favorite": [C, C++],
-  "Code.learning": [Python, HTML, CSS, Batch]
-  "Tools":         [VSCode, Docker, Git,]
- }
- ```
- <img align="right" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="200" height="128" />
-<p>
+```javascript
+const MAGCARI = {
+ "Code.favorite": [C, C++],
+ "Code.learning": [Python, HTML, CSS, Batch]
+ "Tools":         [VSCode, Docker, Git,]
+}
+```
+<img align="right" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="200" height="128" />
 
 ---
 
