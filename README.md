@@ -5,6 +5,7 @@
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
+ <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatc&layout=compact"/>
 </p>
 
 <p>
