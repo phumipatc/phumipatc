@@ -3,7 +3,9 @@
  <h2 align="center">Profile</h2>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
+</p>
 
 <p>
   <br>📣 Contact Me</br>
