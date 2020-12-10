@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-<!--
-**phumipatc/phumipatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <br>📣 Contact Me</br>
+  <a href="https://facebook.com/bossryc"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/phumipat.c"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/magcari"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+</p>
