@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
- <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
- <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatc&layout=compact"/>
+ <img align="center" width="420" height="140" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
+ <img align="center" width="420" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatc&layout=compact"/>
 </p>
 
 <p>
