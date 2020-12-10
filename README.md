@@ -10,6 +10,8 @@
  <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatc&layout=compact"/>
 </p>
 
+---
+
 <p>
   <h3>📣 Contact Me</h3>
   <a href="https://facebook.com/bossryc"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
