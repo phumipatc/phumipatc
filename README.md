@@ -17,7 +17,7 @@ const MAGCARI = {
  "Tools":         [VSCode, Docker, Git]
 }
 ```
-<img align="right" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="300" height="192" />
+<img align="left" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="300" height="192" />
 
 ---
 
