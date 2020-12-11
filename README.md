@@ -24,7 +24,7 @@ const MAGCARI = {
 <p>
   <h3>📣 Contact Me</h3>
   <a href="https://facebook.com/bossryc"><img src="https://img.shields.io/badge/facebook-1778F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/phumipat.c"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/phumipat.c"><img src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/magcari"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="mailto:phumipat.c@outlook.com"><img src="https://img.shields.io/badge/mail-BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
