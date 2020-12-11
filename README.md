@@ -28,4 +28,4 @@ const MAGCARI = {
   <a href="https://twitch.tv/magcari"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="mailto:phumipat.c@outlook.com"><img src="https://img.shields.io/badge/mail-BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=phumipatc.phumipatc" alt="Visitors Count" />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phumipatc.phumipatc" alt="Visitors Count" />
