@@ -12,9 +12,9 @@
 
 ```javascript
 const MAGCARI = {
- "Code.favorite": [C, C++],
- "Code.learning": [Python,PHP , HTML, CSS, Batch]
- "Tools":         [VSCode, Docker, Git]
+ "Code.favorite": [C, C++, Python],
+ "Code.learning": [JS, CSS, Batch]
+ "Tools":         [VSCode, Git]
 }
 ```
 <img align="left" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="300" height="192" />
