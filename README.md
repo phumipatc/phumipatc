@@ -1,4 +1,5 @@
 <p align="center">
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
  <img src="https://github.com/phumipatc/phumipatc/blob/main/header.png" align="center" alt="Header" />
  <h2 align="center">MAGCARI's Profile</h2>
 </p>
@@ -27,6 +28,4 @@ const MAGCARI = {
   <a href="https://instagram.com/phumipat.c"><img src="https://img.shields.io/badge/instagram-E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/magcari"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="mailto:phumipat.c@outlook.com"><img src="https://img.shields.io/badge/mail-BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/Magnam_Caritatem"><img src="https://cp-logo.vercel.app/codeforces/Magnam_Caritatem"/></a>
 </p>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phumipatc.phumipatc" alt="Visitors Count" />
