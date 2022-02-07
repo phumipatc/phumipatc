@@ -10,6 +10,7 @@
 
 ---
 <img src="https://github.com/phumipatc/phumipatc/blob/main/header.png" align="center" alt="Header" />
+
 ```javascript
 const MAGCARI = {
  "Code.favorite": [C, C++, Python],
