@@ -6,11 +6,10 @@
 <p align="center">
  <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api?username=phumipatc&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="phumipatc's Github Stats">
  <img align="center" width="390" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatc&layout=compact"/>
- <img src="https://github.com/phumipatc/phumipatc/blob/main/header.png" align="center" alt="Header" />
 </p>
 
 ---
-
+<img src="https://github.com/phumipatc/phumipatc/blob/main/header.png" align="center" alt="Header" />
 ```javascript
 const MAGCARI = {
  "Code.favorite": [C, C++, Python],
