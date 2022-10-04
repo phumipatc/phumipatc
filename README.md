@@ -21,7 +21,7 @@ const MAGCARI = {
 <img align="left" alt="GIF" src="https://github.com/phumipatc/phumipatc/blob/main/code.gif?raw=true" width="300" height="192" />
 
 ---
-
+okay got it
 <p>
   <h3>📣 Contact Me</h3>
   <p>    </p>
